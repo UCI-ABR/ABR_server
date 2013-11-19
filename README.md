@@ -21,7 +21,7 @@ Software still needs debugging, comments, optimization...
 
 Requirements
 ------------
-
+- works on Windows 7, Mac OS X, Linux Ubuntu
 - QT libraries 4.7.1 (should work for versions < 5.0)
 - I also recommand using QT Creator (IDE) to open the project if you need to change the GUI.
 Both Qt libraries and Qt Creator can be downloaded in one package here: http://qt-project.org/downloads
