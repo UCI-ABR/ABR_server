@@ -1,2 +1,28 @@
 ABR_server
 ==========
+
+QT (c++) project: Server running on PC.
+
+This server can receive connections from multiple phones and display video feedback and sensory information.
+It can also be used to control remotely robots.
+
+- start server on PC
+- connect Android client (ABR_client) to the server using the IP address of server (port 9000).
+- once connected, you should see an Android icon on the server GUI.
+- right click on it to open a window from which you can start/stop the camera, sensors and IOIO.
+
+
+   
+!!! ON GOING PROGRESS !!!
+------------------------
+
+Software still needs debugging, comments, optimization...
+
+
+Requirements
+------------
+
+- QT libraries 4.7.1 (should work for versions < 5.0)
+- I also recommand using QT Creator (IDE) to open the project if you need to change the GUI.
+Both Qt libraries and Qt Creator can be downloaded in one package here: http://qt-project.org/downloads
+
