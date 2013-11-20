@@ -49,7 +49,7 @@ QT       += core gui
 QT       += network
 QT       += opengl
 
-TARGET = Le_Carl_PC_Server
+TARGET = ABR_server
 TEMPLATE = app
 
 
