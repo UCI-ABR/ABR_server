@@ -12,6 +12,10 @@ It can also be used to control remotely robots.
 - right click on it to open a window from which you can start/stop the camera, sensors and IOIO.
 
 
+For more information, go to:
+http://www.socsci.uci.edu/~jkrichma/CARL/ABR_web/ABR.html
+
+
    
 !!! ON GOING PROGRESS !!!
 ------------------------
