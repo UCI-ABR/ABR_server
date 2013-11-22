@@ -15,6 +15,9 @@ It can also be used to control remotely robots.
 For more information, go to:
 http://www.socsci.uci.edu/~jkrichma/CARL/ABR_web/ABR.html
 
+If you have questions, go to:
+https://groups.google.com/forum/?hl=en#!forum/android-based-robotics
+
 
    
 !!! ON GOING PROGRESS !!!
