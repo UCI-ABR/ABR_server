@@ -44,15 +44,14 @@ WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
 OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
 EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 *******************************************************************************************************/
-
-#include <QtGui/QApplication>
-#include "servermainwindow.h"
+#include <QApplication>
+#include "gui_server.h"
 
 int main(int argc, char *argv[])
 {
-    QApplication a(argc, argv);
-    ServerMainWindow w;
-    w.show();
-    
-    return a.exec();
+    QApplication app(argc, argv);
+    GUI_server gui;
+    gui.show();
+
+    return app.exec();
 }

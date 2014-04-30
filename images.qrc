@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Image_files/carl_logo.jpg</file>
+        <file>Image_files/android_logo.jpg</file>
+        <file>Image_files/android_logo2.jpg</file>
+        <file>Image_files/down_arrow.jpg</file>
+        <file>Image_files/left_arrow.jpg</file>
+        <file>Image_files/right_arrow.jpg</file>
+        <file>Image_files/up_arrow.jpg</file>
+    </qresource>
+</RCC>
